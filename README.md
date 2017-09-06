@@ -1,7 +1,9 @@
 # builder-and-parser-of-strins
 
 Пользуясь функцией-строителем sumStringToArr() можно построить строку вида:
+
    ![alt text](43224583e9.jpg)
+   
    Передав в качестве аргумента массив из соответствующих знаков.
    Например:
    [seven, zero, eight, nine, three, two]:
